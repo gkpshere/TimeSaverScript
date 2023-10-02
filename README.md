@@ -9,4 +9,6 @@ It saves me a lot of time, I don't have to come back and login everytime.
 
 Happy coding in Python!
 
+PS: it is important to use this script responsibly and not to use it to pretend to be online while you are away.
+
 
